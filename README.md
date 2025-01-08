@@ -1,9 +1,26 @@
 # 4 Inch Avionics Repository
 
 ---
+
+
 <div align="center">
-  <img src="https://github.com/sonicavionics/4in-sensors/blob/main/images/board.png" height="250"/>
-  <img src="https://github.com/sonicavionics/4in-powersim/blob/main/images/board.png" height="250"/> 
-  <img src="https://github.com/sonicavionics/4in-backplate/blob/main/images/board.png" height="450"/> 
-  <br><figcaption><i>Current KiCad Renders</i></figcaption>
+  <table>
+    <tr>
+      <td align="center" style="vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/sonicavionics/4in-sensors/refs/heads/main/images/board.png" height="250" />
+        <br />
+        <i>Sensor Board Render</i>
+      </td>
+      <td align="center" style="vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/sonicavionics/4in-powersim/refs/heads/main/images/board.png" height="250" />
+        <br />
+        <i>PowerSim Board Render</i>
+      </td>
+      <td align="center" style="vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/sonicavionics/4in-backplate/refs/heads/main/images/board.png" height="450" />
+        <br />
+        <i>Backplate Render</i>
+      </td>
+    </tr>
+  </table>
 </div>
