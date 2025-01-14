@@ -29,3 +29,11 @@
 "b_h_x" = 37mm
 
 "rack_front_width" = 11.63mm
+
+"hole_b_d" = 39.12541885mm
+
+"hole_b_a" = 18.9721389deg
+
+"hole_u_d" = 41.78253224mm
+
+"hole_u_a" = 53.76090642deg
