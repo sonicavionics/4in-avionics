@@ -20,12 +20,14 @@
 
 "rack_hole_tol" = 0.35mm
 
-"u_h_y" = 33.7mm
-
-"u_h_x" = 24.7mm
-
-"b_h_y" = 12.72mm
-
-"b_h_x" = 37mm
-
 "rack_front_width" = 11.63mm
+
+"hole_b_d" = 39.12541885mm
+
+"hole_b_a" = 18.9721389deg
+
+"hole_u_d" = 39.12541885mm
+
+"hole_u_a" = 53.76090642deg
+
+"card_h" = 61.73mm
