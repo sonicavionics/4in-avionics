@@ -1,9 +1,9 @@
 [submodule "4in-powersim"]
 	path = 4in-powersim
-	url = https://github.com/sonicavionics/4in-powersim
+	url = https://github.com/sonicavionics/4in-powersim.git
 [submodule "4in-backplate"]
 	path = 4in-backplate
 	url = https://github.com/sonicavionics/4in-backplate
 [submodule "4in-sensors"]
 	path = 4in-sensors
-	url = https://github.com/sonicavionics/4in-sensors
+	url = https://github.com/sonicavionics/4in-sensors.git
