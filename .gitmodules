@@ -7,3 +7,6 @@
 [submodule "4in-sensors"]
 	path = 4in-sensors
 	url = https://github.com/sonicavionics/4in-sensors.git
+[submodule "4in-MCAD"]
+	path = 4in-MCAD
+	url = https://github.com/sonicavionics/4in-MCAD.git
