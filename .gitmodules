@@ -1,0 +1,3 @@
+[submodule "solidworks/4in-antenna-MCAD"]
+	path = solidworks/4in-antenna-MCAD
+	url = https://github.com/sonicavionics/4in-antenna-MCAD.git
