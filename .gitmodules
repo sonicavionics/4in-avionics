@@ -1,9 +1,6 @@
 [submodule "solidworks/4in-antenna"]
-    path = solidworks/4in-antenna
-    url = https://github.com/sonicavionics/4in-antenna.git
-    branch = main
-
+	path = solidworks/4in-antenna
+	url = https://github.com/sonicavionics/4in-antenna.git
 [submodule "solidworks/4in-gps"]
-    path = solidworks/4in-gps
-    url = https://github.com/sonicavionics/4in-gps.git
-    branch = main
+	path = solidworks/4in-gps
+	url = https://github.com/sonicavionics/4in-gps.git
