@@ -6,7 +6,7 @@
 
 "back_plate_width"= 28mm
 
-"card_spacing"= 25mm
+"card_spacing"= 20mm
 
 "card_number"= 6
 
@@ -31,3 +31,6 @@
 "hole_u_a" = 53.76090642deg
 
 "card_h" = 61.73mm
+
+"sphinx_av" = 50.292mm
+
