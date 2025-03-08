@@ -34,5 +34,5 @@
 
 "sphinx_av"= 50.292mm
 
-"tb_spacing"= 15mm
+"tb_spacing"= 25mm
 
