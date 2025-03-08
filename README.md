@@ -1,5 +1,3 @@
-# 4in-MCAD
-
-MCAD files for the 4 inch avionics
+# 4" Avionics for the Mojave Sphinx
 
 Solidworks has issues with WSL file references. Clone it to a windows directory.
