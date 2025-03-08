@@ -7,3 +7,9 @@
 [submodule "solidworks/4in-sensors"]
 	path = solidworks/4in-sensors
 	url = https://github.com/sonicavionics/4in-sensors.git
+[submodule "solidworks/4in-power"]
+	path = solidworks/4in-power
+	url = https://github.com/sonicavionics/4in-power.git
+[submodule "solidworks/4in-recovery"]
+	path = solidworks/4in-recovery
+	url = https://github.com/sonicavionics/4in-recovery.git
