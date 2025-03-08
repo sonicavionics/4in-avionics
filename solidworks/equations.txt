@@ -18,19 +18,21 @@
 
 "card_length"= 68mm
 
-"rack_hole_tol" = 0.35mm
+"rack_hole_tol"= 0.35mm
 
-"rack_front_width" = 11.63mm
+"rack_front_width"= 11.63mm
 
-"hole_b_d" = 39.12541885mm
+"hole_b_d"= 39.12541885mm
 
-"hole_b_a" = 18.9721389deg
+"hole_b_a"= 18.9721389deg
 
-"hole_u_d" = 39.12541885mm
+"hole_u_d"= 39.12541885mm
 
-"hole_u_a" = 53.76090642deg
+"hole_u_a"= 53.76090642deg
 
-"card_h" = 61.73mm
+"card_h"= 61.73mm
 
-"sphinx_av" = 50.292mm
+"sphinx_av"= 50.292mm
+
+"tb_spacing"= 15mm
 
