@@ -4,3 +4,6 @@
 [submodule "solidworks/4in-gps"]
 	path = solidworks/4in-gps
 	url = https://github.com/sonicavionics/4in-gps.git
+[submodule "solidworks/4in-sensors"]
+	path = solidworks/4in-sensors
+	url = https://github.com/sonicavionics/4in-sensors.git
