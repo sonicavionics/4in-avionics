@@ -1,38 +1,19 @@
-﻿"allrockets_tube_ID"= 3.85in
-
-"allrockets_tube_OD"= 4.024in
-
-"hole"= 6.35mm
-
-"back_plate_width"= 28mm
-
-"card_spacing"= 23mm
-
-"card_number"= 7
-
-"ToDi"= 0.05mm
-
-"card_diameter"= 85.86mm
-
-"overlap"= 6.6mm
-
-"card_length"= 68mm
-
-"rack_hole_tol"= 0.35mm
-
-"rack_front_width"= 11.63mm
-
-"hole_b_d"= 39.12541885mm
-
-"hole_b_a"= 18.9721389deg
-
-"hole_u_d"= 39.12541885mm
-
-"hole_u_a"= 53.76090642deg
-
-"card_h"= 61.73mm
-
-"sphinx_av"= 50.292mm
-
-"tb_spacing"= 36mm
-
+﻿"allrockets_tube_ID"= 3.85in
+"allrockets_tube_OD"= 4.024in
+"hole"= 6.35mm
+"back_plate_width"= 28mm
+"card_spacing"= 23mm
+"card_number"= 6
+"ToDi"= 0.05mm
+"card_diameter"= 85.86mm
+"overlap"= 6.6mm
+"card_length"= 68mm
+"rack_hole_tol"= 0.35mm
+"rack_front_width"= 11.63mm
+"hole_b_d"= 39.12541885mm
+"hole_b_a"= 18.9721389deg
+"hole_u_d"= 39.12541885mm
+"hole_u_a"= 53.76090642deg
+"card_h"= 61.73mm
+"sphinx_av"= 50.292mm
+"tb_spacing"= 40mm
