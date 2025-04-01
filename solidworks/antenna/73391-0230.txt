@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.3";"";
+"SUPPLIER";"Molex";"";
+"TraceParts.PartNumber";"10-08112019-131361";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Molex Right Angle 50Ω Cable Mount SMA Connector, Crimp Termination RG174, RG188, RG316";"";
+"TraceParts.InstanceId";"10-08112019-131361C1KB8WIJ3LT7G6Y69BHAUXRKD";"";
+"TraceParts.PartTitle";"Molex Right Angle 50Ω Cable Mount SMA Connector, Crimp Termination RG174, RG188, RG316";"";
+"REFERENCE";"73391-0230";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/8227430?cm_mmc=en-ds-_-mcad-_-traceparts-_-8227430'";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"rs_stock_number";"8227430";"";
+"allied_stock_number";"70191556";"";
