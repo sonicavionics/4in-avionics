@@ -6,7 +6,7 @@
 
 "back_plate_width"= 28mm
 
-"card_spacing"= 17mm
+"card_spacing"= 20mm
 
 "card_number"= 6
 
@@ -40,5 +40,5 @@
 
 "sphinx_av"= 50.292mm
 
-"tb_spacing"= 35mm
+"tb_spacing"= 30mm
 
