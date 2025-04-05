@@ -18,7 +18,7 @@
 
 "card_length"= 68mm
 
-"rack_hole_tol"= 0.35mm
+"rack_hole_tol"= 0.60mm
 
 "rack_front_width"= 11.63mm
 
@@ -40,5 +40,5 @@
 
 "sphinx_av"= 50.292mm
 
-"tb_spacing"= 30mm
+"tb_spacing"= 40mm
 
